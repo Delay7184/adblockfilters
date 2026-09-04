@@ -59,6 +59,6 @@
 
 | 规则 | 类型 | 原始链接 | 加速链接1 | 加速链接2 | 加速链接3 | 更新日期 |
 |:-|:-|:-|:-|:-|:-|:-|
-| DNS-Blocklists PRO | dns | [原始链接](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/Delay7184/adblockfilters@main/rules/DNS-Blocklists_PRO.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/DNS-Blocklists_PRO.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/DNS-Blocklists_PRO.txt) | 2026/09/03 |
+| DNS-Blocklists PRO | dns | [原始链接](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/Delay7184/adblockfilters@main/rules/DNS-Blocklists_PRO.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/DNS-Blocklists_PRO.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/DNS-Blocklists_PRO.txt) | 2026/09/04 |
 | AWAvenue Ads Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/Delay7184/adblockfilters@main/rules/AWAvenue_Ads_Rule.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/AWAvenue_Ads_Rule.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/Delay7184/adblockfilters/main/rules/AWAvenue_Ads_Rule.txt) | 2024/01/01 |
 

@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/03 20:30:50
-#!support=6838
+#!date=2026/09/04 10:34:33
+#!support=6837
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,005555.com
@@ -850,7 +850,6 @@ DOMAIN-SUFFIX,wxhawk.aoscdn.com
 DOMAIN-SUFFIX,log-pub-hk.aoshitang.com
 DOMAIN-SUFFIX,aotiw.cn
 DOMAIN-SUFFIX,v2-feed-ad.ap4r.com
-DOMAIN-SUFFIX,apf-wps.com.cn
 DOMAIN-SUFFIX,analytics.api.myqnapcloud.cn
 DOMAIN-SUFFIX,adx.apicgate.com
 DOMAIN-SUFFIX,us-behavior.apitd.net

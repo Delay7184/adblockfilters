@@ -2,8 +2,8 @@
 #!desc=每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!source=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockshadowrocketlite.sgmodule
-#!version=20260903203050
-#!updated=2026/09/03 20:30:50
+#!version=20260904103433
+#!updated=2026/09/04 10:34:33
 
 [Rule]
 DOMAIN-SUFFIX,005555.com,REJECT-DROP
@@ -845,7 +845,6 @@ DOMAIN-SUFFIX,wxhawk.aoscdn.com,REJECT-DROP
 DOMAIN-SUFFIX,log-pub-hk.aoshitang.com,REJECT-DROP
 DOMAIN-SUFFIX,aotiw.cn,REJECT-DROP
 DOMAIN-SUFFIX,v2-feed-ad.ap4r.com,REJECT-DROP
-DOMAIN-SUFFIX,apf-wps.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,analytics.api.myqnapcloud.cn,REJECT-DROP
 DOMAIN-SUFFIX,adx.apicgate.com,REJECT-DROP
 DOMAIN-SUFFIX,us-behavior.apitd.net,REJECT-DROP
