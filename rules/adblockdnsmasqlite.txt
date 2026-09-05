@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260904202720
-# Last modified: 2026/09/04 20:27:20
-# Blocked domains: 6966
+# Version: 20260905103523
+# Last modified: 2026/09/05 10:35:23
+# Blocked domains: 6961
 #
 local=/005555.com/
 local=/006j.com/
@@ -1139,7 +1139,6 @@ local=/mipcache.bdstatic.com/
 local=/s.bdstatic.com/
 local=/sofire.bdstatic.com/
 local=/zz.bdstatic.com/
-local=/ads-i3.xhscdn.com.a.bdydns.com/
 local=/miniapp-ad.cdn.bcebos.com.a.bdydns.com/
 local=/v5-bd-daily-reading-ad-bd001.dizgslb.com.a.bdydns.com/
 local=/yahoo1.beareyes.com.cn/
@@ -1906,7 +1905,6 @@ local=/nanazip.cn.pages.dnsoe4.com/
 local=/www.autohotkey.top.pages.dnsoe4.com/
 local=/autohotkey.top.pages.dnsoe5.com/
 local=/www.freeotp.cn.pages.dnsoe6.com/
-local=/ads-i1.xhscdn.com.cdn.dnsv1.com/
 local=/ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com/
 local=/beacon.cdn.qq.com.cdn.dnsv1.com/
 local=/stats-cdn.polyspeak.ai.cdn.dnsv1.com/
@@ -2923,7 +2921,6 @@ local=/download.changhong.upgrade2.huan.tv/
 local=/downloadxml.changhong.upgrade2.huan.tv/
 local=/livemonitor.huan.tv/
 local=/log.appstore3.huan.tv/
-local=/monitor-ads.huan.tv/
 local=/monitor-ads-test.huan.tv/
 local=/service.changhong.upgrade2.huan.tv/
 local=/hy.huangye88.com.cn/
@@ -5382,7 +5379,6 @@ local=/tpns.tencent.com/
 local=/tpns.sgp.tencent.com/
 local=/tpstelemetry.tencent.com/
 local=/tencentapigw.com/
-local=/tencentapigw.com.cn/
 local=/gz.apigw.tencentcs.com/
 local=/ad.tencentmusic.com/
 local=/adcdn.tencentmusic.com/
@@ -5961,7 +5957,6 @@ local=/ad.xiaohongshu.wadwedomer1614.com/
 local=/tongdun-fingerprint.walmartmobile.cn/
 local=/walz.cn/
 local=/wam80gi.cn/
-local=/wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net/
 local=/ad.wanchuweilai.com/
 local=/ad.wanfangdata.com.cn/
 local=/analytics.med.wanfangdata.com.cn/

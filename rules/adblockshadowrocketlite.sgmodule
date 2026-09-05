@@ -2,8 +2,8 @@
 #!desc=每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!source=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockshadowrocketlite.sgmodule
-#!version=20260904202720
-#!updated=2026/09/04 20:27:20
+#!version=20260905103523
+#!updated=2026/09/05 10:35:23
 
 [Rule]
 DOMAIN-SUFFIX,005555.com,REJECT-DROP
@@ -1138,7 +1138,6 @@ DOMAIN-SUFFIX,mipcache.bdstatic.com,REJECT-DROP
 DOMAIN-SUFFIX,s.bdstatic.com,REJECT-DROP
 DOMAIN-SUFFIX,sofire.bdstatic.com,REJECT-DROP
 DOMAIN-SUFFIX,zz.bdstatic.com,REJECT-DROP
-DOMAIN-SUFFIX,ads-i3.xhscdn.com.a.bdydns.com,REJECT-DROP
 DOMAIN-SUFFIX,miniapp-ad.cdn.bcebos.com.a.bdydns.com,REJECT-DROP
 DOMAIN-SUFFIX,v5-bd-daily-reading-ad-bd001.dizgslb.com.a.bdydns.com,REJECT-DROP
 DOMAIN-SUFFIX,yahoo1.beareyes.com.cn,REJECT-DROP
@@ -1905,7 +1904,6 @@ DOMAIN-SUFFIX,nanazip.cn.pages.dnsoe4.com,REJECT-DROP
 DOMAIN-SUFFIX,www.autohotkey.top.pages.dnsoe4.com,REJECT-DROP
 DOMAIN-SUFFIX,autohotkey.top.pages.dnsoe5.com,REJECT-DROP
 DOMAIN-SUFFIX,www.freeotp.cn.pages.dnsoe6.com,REJECT-DROP
-DOMAIN-SUFFIX,ads-i1.xhscdn.com.cdn.dnsv1.com,REJECT-DROP
 DOMAIN-SUFFIX,ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com,REJECT-DROP
 DOMAIN-SUFFIX,beacon.cdn.qq.com.cdn.dnsv1.com,REJECT-DROP
 DOMAIN-SUFFIX,stats-cdn.polyspeak.ai.cdn.dnsv1.com,REJECT-DROP
@@ -2922,7 +2920,6 @@ DOMAIN-SUFFIX,download.changhong.upgrade2.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,downloadxml.changhong.upgrade2.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,livemonitor.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,log.appstore3.huan.tv,REJECT-DROP
-DOMAIN-SUFFIX,monitor-ads.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,monitor-ads-test.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,service.changhong.upgrade2.huan.tv,REJECT-DROP
 DOMAIN-SUFFIX,hy.huangye88.com.cn,REJECT-DROP
@@ -5381,7 +5378,6 @@ DOMAIN-SUFFIX,tpns.tencent.com,REJECT-DROP
 DOMAIN-SUFFIX,tpns.sgp.tencent.com,REJECT-DROP
 DOMAIN-SUFFIX,tpstelemetry.tencent.com,REJECT-DROP
 DOMAIN-SUFFIX,tencentapigw.com,REJECT-DROP
-DOMAIN-SUFFIX,tencentapigw.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,gz.apigw.tencentcs.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.tencentmusic.com,REJECT-DROP
 DOMAIN-SUFFIX,adcdn.tencentmusic.com,REJECT-DROP
@@ -5960,7 +5956,6 @@ DOMAIN-SUFFIX,ad.xiaohongshu.wadwedomer1614.com,REJECT-DROP
 DOMAIN-SUFFIX,tongdun-fingerprint.walmartmobile.cn,REJECT-DROP
 DOMAIN-SUFFIX,walz.cn,REJECT-DROP
 DOMAIN-SUFFIX,wam80gi.cn,REJECT-DROP
-DOMAIN-SUFFIX,wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net,REJECT-DROP
 DOMAIN-SUFFIX,ad.wanchuweilai.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.wanfangdata.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,analytics.med.wanfangdata.com.cn,REJECT-DROP

@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/04 20:27:20
-#!support=6966
+#!date=2026/09/05 10:35:23
+#!support=6961
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,005555.com
@@ -1143,7 +1143,6 @@ DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,s.bdstatic.com
 DOMAIN-SUFFIX,sofire.bdstatic.com
 DOMAIN-SUFFIX,zz.bdstatic.com
-DOMAIN-SUFFIX,ads-i3.xhscdn.com.a.bdydns.com
 DOMAIN-SUFFIX,miniapp-ad.cdn.bcebos.com.a.bdydns.com
 DOMAIN-SUFFIX,v5-bd-daily-reading-ad-bd001.dizgslb.com.a.bdydns.com
 DOMAIN-SUFFIX,yahoo1.beareyes.com.cn
@@ -1910,7 +1909,6 @@ DOMAIN-SUFFIX,nanazip.cn.pages.dnsoe4.com
 DOMAIN-SUFFIX,www.autohotkey.top.pages.dnsoe4.com
 DOMAIN-SUFFIX,autohotkey.top.pages.dnsoe5.com
 DOMAIN-SUFFIX,www.freeotp.cn.pages.dnsoe6.com
-DOMAIN-SUFFIX,ads-i1.xhscdn.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,beacon.cdn.qq.com.cdn.dnsv1.com
 DOMAIN-SUFFIX,stats-cdn.polyspeak.ai.cdn.dnsv1.com
@@ -2927,7 +2925,6 @@ DOMAIN-SUFFIX,download.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,downloadxml.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,livemonitor.huan.tv
 DOMAIN-SUFFIX,log.appstore3.huan.tv
-DOMAIN-SUFFIX,monitor-ads.huan.tv
 DOMAIN-SUFFIX,monitor-ads-test.huan.tv
 DOMAIN-SUFFIX,service.changhong.upgrade2.huan.tv
 DOMAIN-SUFFIX,hy.huangye88.com.cn
@@ -5386,7 +5383,6 @@ DOMAIN-SUFFIX,tpns.tencent.com
 DOMAIN-SUFFIX,tpns.sgp.tencent.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,tencentapigw.com
-DOMAIN-SUFFIX,tencentapigw.com.cn
 DOMAIN-SUFFIX,gz.apigw.tencentcs.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adcdn.tencentmusic.com
@@ -5965,7 +5961,6 @@ DOMAIN-SUFFIX,ad.xiaohongshu.wadwedomer1614.com
 DOMAIN-SUFFIX,tongdun-fingerprint.walmartmobile.cn
 DOMAIN-SUFFIX,walz.cn
 DOMAIN-SUFFIX,wam80gi.cn
-DOMAIN-SUFFIX,wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 DOMAIN-SUFFIX,ad.wanchuweilai.com
 DOMAIN-SUFFIX,ad.wanfangdata.com.cn
 DOMAIN-SUFFIX,analytics.med.wanfangdata.com.cn

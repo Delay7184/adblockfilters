@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260904202720
-# Last modified: 2026/09/04 20:27:20
-# Blocked domains: 6966
+# Version: 20260905103523
+# Last modified: 2026/09/05 10:35:23
+# Blocked domains: 6961
 #
 005555.com @ads
 006j.com @ads
@@ -1139,7 +1139,6 @@ mipcache.bdstatic.com @ads
 s.bdstatic.com @ads
 sofire.bdstatic.com @ads
 zz.bdstatic.com @ads
-ads-i3.xhscdn.com.a.bdydns.com @ads
 miniapp-ad.cdn.bcebos.com.a.bdydns.com @ads
 v5-bd-daily-reading-ad-bd001.dizgslb.com.a.bdydns.com @ads
 yahoo1.beareyes.com.cn @ads
@@ -1906,7 +1905,6 @@ nanazip.cn.pages.dnsoe4.com @ads
 www.autohotkey.top.pages.dnsoe4.com @ads
 autohotkey.top.pages.dnsoe5.com @ads
 www.freeotp.cn.pages.dnsoe6.com @ads
-ads-i1.xhscdn.com.cdn.dnsv1.com @ads
 ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com @ads
 beacon.cdn.qq.com.cdn.dnsv1.com @ads
 stats-cdn.polyspeak.ai.cdn.dnsv1.com @ads
@@ -2923,7 +2921,6 @@ download.changhong.upgrade2.huan.tv @ads
 downloadxml.changhong.upgrade2.huan.tv @ads
 livemonitor.huan.tv @ads
 log.appstore3.huan.tv @ads
-monitor-ads.huan.tv @ads
 monitor-ads-test.huan.tv @ads
 service.changhong.upgrade2.huan.tv @ads
 hy.huangye88.com.cn @ads
@@ -5382,7 +5379,6 @@ tpns.tencent.com @ads
 tpns.sgp.tencent.com @ads
 tpstelemetry.tencent.com @ads
 tencentapigw.com @ads
-tencentapigw.com.cn @ads
 gz.apigw.tencentcs.com @ads
 ad.tencentmusic.com @ads
 adcdn.tencentmusic.com @ads
@@ -5961,7 +5957,6 @@ ad.xiaohongshu.wadwedomer1614.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
 walz.cn @ads
 wam80gi.cn @ads
-wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net @ads
 ad.wanchuweilai.com @ads
 ad.wanfangdata.com.cn @ads
 analytics.med.wanfangdata.com.cn @ads
