@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260905103523
-# Last modified: 2026/09/05 10:35:23
-# Blocked domains: 6961
+# Version: 20260905193343
+# Last modified: 2026/09/05 19:33:43
+# Blocked domains: 6975
 #
 005555.com @ads
 006j.com @ads
@@ -895,8 +895,10 @@ as-i4.com.cn @ads
 appkfpx.asmen.cn @ads
 aspwg.cn @ads
 astrolink.cn @ads
+asyn.cn @ads
 at-bianance.com.cn @ads
 aiseet.aa.atianqi.com @ads
+atlasds.cn @ads
 atpanel.com @ads
 attribuly.com @ads
 au-google.hl.cn @ads
@@ -957,7 +959,6 @@ apppromoteapi.babybus.com @ads
 collect.babybus.com @ads
 tjinit-event.babybus.com @ads
 tjinit-global-register.babybus.com @ads
-baccanjeonline.help @ads
 ime-ad-reporter.badambiz.com @ads
 qmlog.baertt.com @ads
 eu.bagsvalley.cn @ads
@@ -1221,6 +1222,7 @@ bobo.com @ads
 click.bokecc.com @ads
 bokewin.cn @ads
 boligou.top @ads
+sst.boohee.cn @ads
 bootcdn.cn @ads
 bootcss.com @ads
 vstat.borderlessbd.com @ads
@@ -1340,6 +1342,7 @@ ads5-normal-lf.zijieapi.com.c.dsa.cdnbuild.net @ads
 ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net @ads
 ads5-normal.zijieapi.com.c.dsa.cdnbuild.net @ads
 tracker.cdnbye.com @ads
+ads-i2.xhscdn.com.w.cdngslb.com @ads
 ads-img-al.xhscdn.com.w.cdngslb.com @ads
 ads-splash-i2.xhscdn.com.w.cdngslb.com @ads
 ads-video-al.xhscdn.com.w.cdngslb.com @ads
@@ -1362,6 +1365,7 @@ v2-feed-ad.ap4r.com.w.cdngslb.com @ads
 sgtm.dhgate.com.cdngtm.com @ads
 httpdns.c.cdnhwc2.com @ads
 httpdns1.cc.cdnhwc5.com @ads
+p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com @ads
 cdn-new-ad.wtzw.com.0b90294c.cdnhwclxw05.com @ads
 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com @ads
 ad.cdnjm.cn @ads
@@ -1427,6 +1431,7 @@ chnci.com @ads
 chrom-cn.com.cn @ads
 chrom-zhcn.com.cn @ads
 chrome-chrome-cn.hl.cn @ads
+chrome-zhgoogle.com.cn @ads
 chromeandroid.com @ads
 chromeg-google.com.cn @ads
 chromeqg.com.cn @ads
@@ -1569,9 +1574,10 @@ log-eap-in.coloros.com @ads
 log-eap-sg.coloros.com @ads
 moa-upload-online.coloros.com @ads
 moa-upload-online-in.coloros.com @ads
-wangsu-smetrics.redhat.com.edgekey.net @ads
+compart.cn @ads
 complemeny.com @ads
 ncs.conf.com.cn @ads
+connectivity.accesscam.org @ads
 cu-cn-north00002.gala.convection.cn @ads
 convert2.cn @ads
 coocaatv.com @ads
@@ -1645,6 +1651,7 @@ statistic.csdn.net @ads
 zhannei-dm.csdn.net @ads
 kunpeng-sc.csdnimg.cn @ads
 csjplatform.com @ads
+csjzaj.cn @ads
 logger.csslcloud.net @ads
 ctags.cn @ads
 ads-marketing-vivofs.vivo.com.cn.ctdns.cn @ads
@@ -2100,6 +2107,7 @@ servo-report.dvdfab.cn @ads
 dvnofknrf.cn @ads
 dvtednm.cn @ads
 dvzk66.cn @ads
+tr.dwjq.com.cn @ads
 untitled.dwstatic.com @ads
 dxpmedia.com @ads
 2021.dxsbb.com @ads
@@ -2147,6 +2155,7 @@ adm.eechina.com @ads
 eecowj.cn @ads
 ad.eepw.com.cn @ads
 eexlgyn.cn @ads
+eeyy.com @ads
 ad.efapiao.com @ads
 auto-people-com-cn.eflex.cn @ads
 efusc.com @ads
@@ -2622,6 +2631,7 @@ tianshu.gtimg.cn @ads
 ra.gtimg.com @ads
 tui.gtimg.com @ads
 wa.gtimg.com @ads
+eu1-rum-openway.guance.com @ads
 rum-openway.guance.com @ads
 us1-rum-openway.guance.com @ads
 bd1.guancha.cn @ads
@@ -3513,6 +3523,7 @@ h1.kukuw.com @ads
 adimage.bwton.com.w.kunluncan.com @ads
 lf3-analytics.bytescm.com.w.kunluncan.com @ads
 p3-ad-sign.byteimg.com.w.kunluncan.com @ads
+sst.boohee.cn.w.kunluncan.com @ads
 ads.yuepenghk.com.w.kunlungr.com @ads
 img.adnyg.com.w.kunlungr.com @ads
 pt-sentry-infinity.infoldgames.com.w.kunlungr.com @ads
@@ -4088,6 +4099,7 @@ fp.nanrenwo.net @ads
 nasimobi.com @ads
 nb4ds7c13d.com @ads
 nbshute.com.cn @ads
+nbyxwj.cn @ads
 v66-ad.ndcjl.com @ads
 conf.stat.foreign.nearme.com.cn @ads
 i.stat.nearme.com.cn @ads
@@ -4397,6 +4409,7 @@ ptengine.cn @ads
 ptgdb.cn @ads
 ptmabek.cn @ads
 ptzpaxq7bu.com @ads
+sentry-sg.cs.pudutech.com @ads
 pig.pupuapi.com @ads
 pushauction.com @ads
 analytics.pushgrid.net @ads
@@ -4715,6 +4728,7 @@ api-access.pangolin-sdk-toutiao.com.queniuyk.com @ads
 log-api.pangolin-sdk-toutiao.com.queniuyk.com @ads
 tnc3-alisc1.zijieapi.com.queniuyk.com @ads
 qufu.com.cn @ads
+logs.quickapi.net @ads
 chat.quickcep.com @ads
 quickqdownload.com.cn @ads
 qujishu.com @ads
@@ -6164,7 +6178,6 @@ pvx.xcar.com.cn @ads
 zio.xcar.com.cn @ads
 analytics.xdiarys.com @ads
 analytics1.xdiarys.com @ads
-analytics2.xdiarys.com @ads
 stat.xdplt.com @ads
 xdrig.com @ads
 sensors.h5.xed.plus @ads
@@ -6779,6 +6792,7 @@ api-analytics.zepp.com @ads
 api-analytics-cn.zepp.com @ads
 api-analytics-cn3.zepp.com @ads
 api-analytics-de.zepp.com @ads
+api-analytics-sg.zepp.com @ads
 api-analytics-us.zepp.com @ads
 api-analytics-us3.zepp.com @ads
 app-analytics-de.zepp.com @ads

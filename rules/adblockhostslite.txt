@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260905103523
-# Last modified: 2026/09/05 10:35:23
-# Blocked domains: 6961
+# Version: 20260905193343
+# Last modified: 2026/09/05 19:33:43
+# Blocked domains: 6975
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -910,8 +910,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	appkfpx.asmen.cn
 0.0.0.0	aspwg.cn
 0.0.0.0	astrolink.cn
+0.0.0.0	asyn.cn
 0.0.0.0	at-bianance.com.cn
 0.0.0.0	aiseet.aa.atianqi.com
+0.0.0.0	atlasds.cn
 0.0.0.0	atpanel.com
 0.0.0.0	attribuly.com
 0.0.0.0	au-google.hl.cn
@@ -972,7 +974,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	collect.babybus.com
 0.0.0.0	tjinit-event.babybus.com
 0.0.0.0	tjinit-global-register.babybus.com
-0.0.0.0	baccanjeonline.help
 0.0.0.0	ime-ad-reporter.badambiz.com
 0.0.0.0	qmlog.baertt.com
 0.0.0.0	eu.bagsvalley.cn
@@ -1236,6 +1237,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.bokecc.com
 0.0.0.0	bokewin.cn
 0.0.0.0	boligou.top
+0.0.0.0	sst.boohee.cn
 0.0.0.0	bootcdn.cn
 0.0.0.0	bootcss.com
 0.0.0.0	vstat.borderlessbd.com
@@ -1355,6 +1357,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 0.0.0.0	ads5-normal.zijieapi.com.c.dsa.cdnbuild.net
 0.0.0.0	tracker.cdnbye.com
+0.0.0.0	ads-i2.xhscdn.com.w.cdngslb.com
 0.0.0.0	ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0	ads-splash-i2.xhscdn.com.w.cdngslb.com
 0.0.0.0	ads-video-al.xhscdn.com.w.cdngslb.com
@@ -1377,6 +1380,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sgtm.dhgate.com.cdngtm.com
 0.0.0.0	httpdns.c.cdnhwc2.com
 0.0.0.0	httpdns1.cc.cdnhwc5.com
+0.0.0.0	p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0	cdn-new-ad.wtzw.com.0b90294c.cdnhwclxw05.com
 0.0.0.0	ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 0.0.0.0	ad.cdnjm.cn
@@ -1442,6 +1446,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	chrom-cn.com.cn
 0.0.0.0	chrom-zhcn.com.cn
 0.0.0.0	chrome-chrome-cn.hl.cn
+0.0.0.0	chrome-zhgoogle.com.cn
 0.0.0.0	chromeandroid.com
 0.0.0.0	chromeg-google.com.cn
 0.0.0.0	chromeqg.com.cn
@@ -1584,9 +1589,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-eap-sg.coloros.com
 0.0.0.0	moa-upload-online.coloros.com
 0.0.0.0	moa-upload-online-in.coloros.com
-0.0.0.0	wangsu-smetrics.redhat.com.edgekey.net
+0.0.0.0	compart.cn
 0.0.0.0	complemeny.com
 0.0.0.0	ncs.conf.com.cn
+0.0.0.0	connectivity.accesscam.org
 0.0.0.0	cu-cn-north00002.gala.convection.cn
 0.0.0.0	convert2.cn
 0.0.0.0	coocaatv.com
@@ -1660,6 +1666,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zhannei-dm.csdn.net
 0.0.0.0	kunpeng-sc.csdnimg.cn
 0.0.0.0	csjplatform.com
+0.0.0.0	csjzaj.cn
 0.0.0.0	logger.csslcloud.net
 0.0.0.0	ctags.cn
 0.0.0.0	ads-marketing-vivofs.vivo.com.cn.ctdns.cn
@@ -2115,6 +2122,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dvnofknrf.cn
 0.0.0.0	dvtednm.cn
 0.0.0.0	dvzk66.cn
+0.0.0.0	tr.dwjq.com.cn
 0.0.0.0	untitled.dwstatic.com
 0.0.0.0	dxpmedia.com
 0.0.0.0	2021.dxsbb.com
@@ -2162,6 +2170,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	eecowj.cn
 0.0.0.0	ad.eepw.com.cn
 0.0.0.0	eexlgyn.cn
+0.0.0.0	eeyy.com
 0.0.0.0	ad.efapiao.com
 0.0.0.0	auto-people-com-cn.eflex.cn
 0.0.0.0	efusc.com
@@ -2637,6 +2646,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ra.gtimg.com
 0.0.0.0	tui.gtimg.com
 0.0.0.0	wa.gtimg.com
+0.0.0.0	eu1-rum-openway.guance.com
 0.0.0.0	rum-openway.guance.com
 0.0.0.0	us1-rum-openway.guance.com
 0.0.0.0	bd1.guancha.cn
@@ -3528,6 +3538,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adimage.bwton.com.w.kunluncan.com
 0.0.0.0	lf3-analytics.bytescm.com.w.kunluncan.com
 0.0.0.0	p3-ad-sign.byteimg.com.w.kunluncan.com
+0.0.0.0	sst.boohee.cn.w.kunluncan.com
 0.0.0.0	ads.yuepenghk.com.w.kunlungr.com
 0.0.0.0	img.adnyg.com.w.kunlungr.com
 0.0.0.0	pt-sentry-infinity.infoldgames.com.w.kunlungr.com
@@ -4103,6 +4114,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nasimobi.com
 0.0.0.0	nb4ds7c13d.com
 0.0.0.0	nbshute.com.cn
+0.0.0.0	nbyxwj.cn
 0.0.0.0	v66-ad.ndcjl.com
 0.0.0.0	conf.stat.foreign.nearme.com.cn
 0.0.0.0	i.stat.nearme.com.cn
@@ -4412,6 +4424,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ptgdb.cn
 0.0.0.0	ptmabek.cn
 0.0.0.0	ptzpaxq7bu.com
+0.0.0.0	sentry-sg.cs.pudutech.com
 0.0.0.0	pig.pupuapi.com
 0.0.0.0	pushauction.com
 0.0.0.0	analytics.pushgrid.net
@@ -4730,6 +4743,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-api.pangolin-sdk-toutiao.com.queniuyk.com
 0.0.0.0	tnc3-alisc1.zijieapi.com.queniuyk.com
 0.0.0.0	qufu.com.cn
+0.0.0.0	logs.quickapi.net
 0.0.0.0	chat.quickcep.com
 0.0.0.0	quickqdownload.com.cn
 0.0.0.0	qujishu.com
@@ -6179,7 +6193,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zio.xcar.com.cn
 0.0.0.0	analytics.xdiarys.com
 0.0.0.0	analytics1.xdiarys.com
-0.0.0.0	analytics2.xdiarys.com
 0.0.0.0	stat.xdplt.com
 0.0.0.0	xdrig.com
 0.0.0.0	sensors.h5.xed.plus
@@ -6794,6 +6807,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-analytics-cn.zepp.com
 0.0.0.0	api-analytics-cn3.zepp.com
 0.0.0.0	api-analytics-de.zepp.com
+0.0.0.0	api-analytics-sg.zepp.com
 0.0.0.0	api-analytics-us.zepp.com
 0.0.0.0	api-analytics-us3.zepp.com
 0.0.0.0	app-analytics-de.zepp.com
