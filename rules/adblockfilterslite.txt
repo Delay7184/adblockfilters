@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：DNS-Blocklists PRO、AWAvenue Ads Rule。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260905193343
-! Last modified: 2026/09/05 19:33:43
+! Version: 20260906015234
+! Last modified: 2026/09/06 01:52:34
 ! Blocked Filters: 1
 !
 @@||r.*.awstrack.me^
